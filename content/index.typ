@@ -48,6 +48,6 @@ Publications coming soon.
 #bibliography(
   "others.bib",
   title: "Other Publications",
-  style: "../styles/acm-unsorted.csl",
+  style: "../assets/acm-unsorted.csl",
   full: true,
 )
