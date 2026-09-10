@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#f6df9b"/>
+  <!-- Open seal border with an outlined serif W, independent of fonts. -->
+  <path fill="none" stroke="#513b28" stroke-width="2.5" stroke-linecap="square" d="M43 8H12Q8 8 8 12v40q0 4 4 4h40q4 0 4-4V12q0-4-4-4"/>
+  <path fill="#513b28" transform="translate(8.2 6) scale(.7 .8)" d="M7 15h17v3h-4l8 27 5-17-3-10h-4v-3h16v3h-4l8 27 8-27h-5v-3h12v3h-3L46 50h-5l-6-20-6 20h-5L13 18H7z"/>
+</svg>
