@@ -11,22 +11,27 @@
   )
 ]
 
+I am a PhD student in the
+#link("https://camera.pku.edu.cn/")[Camera Intelligence Lab] at Peking University.
+My research focuses on computational photography, with a particular focus on
+event cameras.
+
 I earned my B.S. in Computer Science and Technology from the School of EECS at
 Peking University in 2026, as part of the National Top-Notch Student Training
 Program 2.0 in Basic Disciplines.
 
 During my undergraduate studies, I was a member of the
-#link("https://hpc.pku.edu.cn/pkusc/en/")[Peking University Supercomputing Team],
+#link("https://hpc.pku.edu.cn/pkusc/")[Peking University Supercomputing Team],
 where my teammates and I won first place at ASC23 and ASC24 and second place at
 SC23.
 #tufted.margin-note[
   // Keep this note inline: a Typst bullet list would insert a block-level <ul>.
   #link("https://hpc.pku.edu.cn/pkusc/en/competitions/asc-2024/")[ASC24 — First
-  place] #linebreak()
+    place] #linebreak()
   #link("https://hpc.pku.edu.cn/pkusc/en/competitions/sc-2023/")[SC23 — Second
-  place, Highest Linpack Benchmark] #linebreak()
+    place, Highest Linpack Benchmark] #linebreak()
   #link("https://hpc.pku.edu.cn/pkusc/en/competitions/asc-2023/")[ASC23 — First
-  place (As a substitute)]
+    place (As a substitute)]
 ]
 
 #show "Zhuofeng Wang": strong
