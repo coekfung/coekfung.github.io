@@ -1,0 +1,17 @@
+/* Align the unnumbered bibliography with the main text. */
+section[role="doc-bibliography"] > ul {
+    width: 55%;
+    padding-inline-start: 0;
+}
+
+@media (max-width: 760px) {
+    section[role="doc-bibliography"] > ul {
+        width: 100%;
+    }
+}
+
+/* Keep generated references readable, including long publication URLs. */
+[role="doc-bibliography"] li {
+    margin-bottom: 1.4rem;
+    overflow-wrap: anywhere;
+}
