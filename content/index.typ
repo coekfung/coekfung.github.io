@@ -22,8 +22,7 @@ Program 2.0 in Basic Disciplines.
 
 During my undergraduate studies, I was a member of the
 #link("https://hpc.pku.edu.cn/pkusc/")[Peking University Supercomputing Team],
-where my teammates and I won first place at ASC23 and ASC24 and second place at
-SC23.
+where my teammates and I worked together and achieved remarkable results.
 #tufted.margin-note[
   // Keep this note inline: a Typst bullet list would insert a block-level <ul>.
   #link("https://hpc.pku.edu.cn/pkusc/en/competitions/asc-2024/")[ASC24 — First
